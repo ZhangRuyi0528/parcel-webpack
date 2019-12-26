@@ -1,0 +1,21 @@
+{
+  "name": "percel-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel parcel.html"
+  },
+  "author": "Timber_wolf",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-plugin-transform-class-properties": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
